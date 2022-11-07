@@ -1,0 +1,2 @@
+a=input("Enter the sentence which you want to reverse : ")
+print(' '.join(''.join(a).split()[::-1]))
